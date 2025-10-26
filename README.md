@@ -57,11 +57,11 @@ I am a passionate **Data Analyst** with expertise in **AI/ML** and **Cloud Techn
 
 ## 📈 GitHub Stats
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanchuadhary&show_icons=true&theme=radical&hide_border=true)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanchaudhary8&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchuadhary&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchaudhary8&layout=compact&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanchuadhary&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanchaudhary8&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
